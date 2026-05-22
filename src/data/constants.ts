@@ -13,6 +13,7 @@ export const SOCIAL_LINKS = {
 
 export const STATS = [
   { value: '1+', label: 'Years Experience' },
-  { value: '10+', label: 'Projects Built' },
   { value: '100%', label: 'Passion for Code' },
+  { value: '10+', label: 'Projects Built' },
+  { value: '5+', label: 'Hours coding' },
 ] as const
